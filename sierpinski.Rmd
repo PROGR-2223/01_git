@@ -23,3 +23,6 @@ for (draw.depth in seq_len(depth)) {
   plot(sierpinski.df[seq_len(2^draw.depth), ], ylim=c(0, 1), xlim=c(0, 1), pch=".")
 }
 ```
+```{r}
+# insert new chunk
+```
